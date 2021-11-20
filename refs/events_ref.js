@@ -18,6 +18,6 @@ logger.on('message', data => {
 })
 
 
-logger.log('Hello')
-logger.log('Hello')
-logger.log('Hello')
+logger.log('First')
+logger.log('Second')
+logger.log('Third')
